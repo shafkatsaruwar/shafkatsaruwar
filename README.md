@@ -35,7 +35,7 @@ Currently diving into **cloud integration** and **Python projects**, while also 
 ## 🌐 Connect with Me  
 📫 [Email](mailto:shafkatsaruwar@gmail.com)  
 💼 [LinkedIn](https://linkedin.com/in/shafkatsaruwar)  
-📷 [The Shutter Nomad](https://theshutternomad.my.canva.site/)  
+📷 [The Shutter Nomad](https://theshutternomad.vercel.app)  
 
 ---
 ⭐️ *Thanks for stopping by my profile!*
