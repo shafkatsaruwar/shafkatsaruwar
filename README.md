@@ -28,7 +28,7 @@ Currently diving into **cloud integration** and **Python projects**, while also 
 
 ## 🎯 Goals for 2026
 
- ##SICUT VIVERE
+## SICUT VIVERE
 
 ---
 
